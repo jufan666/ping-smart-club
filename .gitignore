@@ -1,0 +1,15 @@
+# 前端git忽略
+ping-smart-club-front/hbuilderx/
+ping-smart-club-front/unpackage/
+ping-smart-club-front/dist/
+ping-smart-club-front/node_modules/
+
+ping-smart-club-front/package-lock.json
+
+__MACOSX
+.DS_Store
+.idea
+pingsrc/static/audio/tineng/debug.log
+
+# 后端git忽略
+

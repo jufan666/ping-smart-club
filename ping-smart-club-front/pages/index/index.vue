@@ -2,6 +2,7 @@
 	<view class="content">
 		<image class="logo" src="/static/logo.png"></image>
 		<view class="text-area">
+			<text class="title">测试提交</text>
 			<text class="title">{{title}}</text>
 		</view>
 	</view>
